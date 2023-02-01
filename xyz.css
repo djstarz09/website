@@ -1,0 +1,9 @@
+body{
+    background-image: url(space.jpg);
+    background-attachment: fixed;
+}
+h1{
+    background-color: darkgrey;
+    border-radius: 34cm;
+    opacity:inherit
+}
